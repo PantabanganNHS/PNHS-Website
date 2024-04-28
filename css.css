@@ -49,7 +49,7 @@ body {
   
   .box-shadow-a,
   .button:hover {
-    box-shadow: 0 0 0 4px #cde1f8;
+    box-shadow: 0 0 0 4px #e5eef7;
   }
   
   .display-5 {
@@ -938,7 +938,7 @@ body {
     }
 
     .header {
-      width: 70%;
+      width: 50%;
       position: fixed;
       padding: 0;
     }
@@ -974,14 +974,19 @@ body {
     }
 
     .box-shadow-full-1 {
-      width: 95%;
+      width: 90%;
       margin-left: 15%;
       margin-right: auto;
     }
 
-    .about-img img {
-      width: 100%;
+    .img-fluid {
+      width: 70%;
       height: auto;
+    }
+
+    .col-sm-6 {
+      margin-left: 20%;
+      margin-bottom: 10%;
     }
 
     #ICT {
@@ -1061,6 +1066,22 @@ body {
 
     .title-a {
       margin-left: 20%;
+      margin-right: auto;
+    }
+
+    .box-shadow-full {
+      margin-left: 20%;
+      margin-right: auto;
+      width: 100%;
+    }
+
+    #laman {
+      margin-left: 10%;
+    }
+
+    .overlay-mf {
+      width: 100%;
+      margin-left: 5%;
       margin-right: auto;
     }
 
