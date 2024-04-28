@@ -927,6 +927,11 @@ body {
       max-width: 700px;
     }
 
+    .table-cell {
+      width: 100%;
+      height: auto;
+    }
+
     .header {
       width: 60%;
       position: fixed;
