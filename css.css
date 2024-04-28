@@ -927,13 +927,8 @@ body {
       max-width: 700px;
     }
 
-    .table-cell {
-      width: 100%;
-      height: auto;
-    }
-
     .header {
-      width: 60%;
+      width: 65%;
       position: fixed;
       padding: 0;
     }
@@ -958,7 +953,7 @@ body {
     }
 
     #home {
-      width: 90%;
+      width: 110%;
       height: 300px;
     }
 
@@ -968,9 +963,10 @@ body {
       margin-left: 0%;
     }
 
-    .col-sm-6 {
-      margin-left: 20%;
-      margin-bottom: 10px;
+    .box-shadow-full {
+      width: 100%;
+      margin-left: 15%;
+      margin-right: auto;
     }
 
     .about-img img {
