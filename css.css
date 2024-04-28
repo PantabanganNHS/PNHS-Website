@@ -1070,7 +1070,7 @@ body {
     }
 
     .box-shadow-full {
-      margin-left: 20%;
+      margin-left: 10%;
       margin-right: auto;
       width: 100%;
     }
@@ -1081,7 +1081,7 @@ body {
 
     .overlay-mf {
       width: 100%;
-      margin-left: 5%;
+      margin-left: %;
       margin-right: auto;
     }
 
