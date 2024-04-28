@@ -973,8 +973,8 @@ body {
       margin-left: 0%;
     }
 
-    .box-shadow-full {
-      width: 80%;
+    .box-shadow-full-1 {
+      width: 95%;
       margin-left: 15%;
       margin-right: auto;
     }
@@ -995,8 +995,8 @@ body {
       margin-top: 10px;
     }
 
-    .history {
-      width: 70%;
+    #history {
+      width: 60%;
     }
 
     .title-left:before {
@@ -1004,11 +1004,14 @@ body {
     }
 
     .trattamento {
-      margin-left: -10%;
+      margin-left: 5%;
+      margin-right: auto;
     }
 
     .trattamento img {
-      width: 70%;
+      width: 80%;
+      margin-left: 10%;
+      margin-right: auto;
     }
 
     .line-mf {
@@ -1019,7 +1022,8 @@ body {
 
     .container2 {
       width: 80%;
-      margin-left: 2%;
+      margin-left: 10%;
+      margin-right: AUTO;
     }
 
     .strands {
@@ -1034,18 +1038,29 @@ body {
     .card {
       width: 80%;
       height: auto;
-      margin-left: -13%;
+      margin-left: 10%;
+      margin-right: auto;
     }
   
     #map {
-      width: 50%;
-      margin: 0;
-      margin-left: 20%;
+      width: 80%;
+      margin-left: 10%;
+      margin-right: AUTO;
     }
 
     .row {
       width: 100%;
       margin-left: -10%;
+      margin-right: auto;
+    }
+
+    .col-md-4 {
+      margin-left: 10%;
+      margin-right: auto;
+    }
+
+    .title-a {
+      margin-left: 20%;
       margin-right: auto;
     }
 
