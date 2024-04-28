@@ -214,8 +214,17 @@ body {
   .box-pl2 {
     padding-left: 2rem;
   }
-  
+
   .box-shadow-full {
+    padding: 3rem 1.25rem;
+    position: relative;
+    background-color: #fff;
+    margin-bottom: 3rem;
+    z-index: 2;
+    box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.06), 0 2px 5px 0 rgba(0, 0, 0, 0.2);
+  }
+  
+  .box-shadow-full-1 {
     padding: 3rem 1.25rem;
     position: relative;
     background-color: #fff;
@@ -525,6 +534,7 @@ body {
   .about-mf .box-shadow-full {
     padding-top: 4rem;
     padding-bottom: 4rem;
+    
   }
   
   .about-mf .about-img {
@@ -928,7 +938,7 @@ body {
     }
 
     .header {
-      width: 60%;
+      width: 50%;
       position: fixed;
       padding: 0;
     }
@@ -1067,9 +1077,6 @@ body {
   }
   
   @media (min-width: 768px) {
-    .box-shadow-full {
-      padding: 3rem;
-    }
   
     .intro .intro-title {
       font-size: 4.5rem;
